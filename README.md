@@ -11,7 +11,7 @@ A User Job Application app, where Job applicants can apply for jobs and the empl
 ---
 ## Demo
 
-
+![user-job-application](https://user-images.githubusercontent.com/93823982/142827539-f2ff469f-d225-4361-87b5-f687a5194613.gif)
 
 ---
 ### Features
