@@ -2,7 +2,7 @@
 
 A User Job Application app, where Job applicants can apply for jobs and the employer can review the job application and he can Shortlist or reject the application. 
 
-### 🛠️ Tech Stark
+### 🛠️ Tech Stack
 
 - 💻 JavaScript | ES6
 - 🌐 React JS
